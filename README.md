@@ -1,4 +1,8 @@
 # Self-Service-Portal-with-Predictive-Analytics-Voice-Activated-Services-and-Customizable-Dashboards
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b"
+>
+</p>
 This project aims to enhance the accessibility and efficiency of municipal services by developing a self-service portal with predictive analytics, voice-activated services, and customizable public dashboards.
 Here is a professional README file for the project:
 
